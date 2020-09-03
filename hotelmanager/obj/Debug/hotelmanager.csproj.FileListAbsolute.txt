@@ -1,0 +1,9 @@
+D:\QuanLyKhachSan\hotelmanager\bin\Debug\hotelmanager.exe.config
+D:\QuanLyKhachSan\hotelmanager\bin\Debug\hotelmanager.exe
+D:\QuanLyKhachSan\hotelmanager\bin\Debug\hotelmanager.pdb
+D:\QuanLyKhachSan\hotelmanager\obj\Debug\hotelmanager.csprojAssemblyReference.cache
+D:\QuanLyKhachSan\hotelmanager\obj\Debug\hotelmanager.frmMain.resources
+D:\QuanLyKhachSan\hotelmanager\obj\Debug\hotelmanager.Properties.Resources.resources
+D:\QuanLyKhachSan\hotelmanager\obj\Debug\hotelmanager.csproj.GenerateResource.cache
+D:\QuanLyKhachSan\hotelmanager\obj\Debug\hotelmanager.exe
+D:\QuanLyKhachSan\hotelmanager\obj\Debug\hotelmanager.pdb

@@ -1,0 +1,8 @@
+D:\QuanLyKhachSan\DAL\bin\Debug\DAL.dll
+D:\QuanLyKhachSan\DAL\bin\Debug\DAL.pdb
+D:\QuanLyKhachSan\DAL\bin\Debug\DTO.dll
+D:\QuanLyKhachSan\DAL\bin\Debug\DTO.pdb
+D:\QuanLyKhachSan\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\QuanLyKhachSan\DAL\obj\Debug\DAL.dll
+D:\QuanLyKhachSan\DAL\obj\Debug\DAL.pdb

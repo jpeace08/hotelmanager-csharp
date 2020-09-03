@@ -1,0 +1,10 @@
+D:\QuanLyKhachSan\BLL\bin\Debug\BLL.dll
+D:\QuanLyKhachSan\BLL\bin\Debug\BLL.pdb
+D:\QuanLyKhachSan\BLL\bin\Debug\DAL.dll
+D:\QuanLyKhachSan\BLL\bin\Debug\DTO.dll
+D:\QuanLyKhachSan\BLL\bin\Debug\DAL.pdb
+D:\QuanLyKhachSan\BLL\bin\Debug\DTO.pdb
+D:\QuanLyKhachSan\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\QuanLyKhachSan\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\QuanLyKhachSan\BLL\obj\Debug\BLL.dll
+D:\QuanLyKhachSan\BLL\obj\Debug\BLL.pdb

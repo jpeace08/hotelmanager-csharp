@@ -1,0 +1,8 @@
+D:\QuanLyKhachSan\DAL\bin\Release\DAL.dll
+D:\QuanLyKhachSan\DAL\bin\Release\DAL.pdb
+D:\QuanLyKhachSan\DAL\bin\Release\DTO.dll
+D:\QuanLyKhachSan\DAL\bin\Release\DTO.pdb
+D:\QuanLyKhachSan\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+D:\QuanLyKhachSan\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\QuanLyKhachSan\DAL\obj\Release\DAL.dll
+D:\QuanLyKhachSan\DAL\obj\Release\DAL.pdb
